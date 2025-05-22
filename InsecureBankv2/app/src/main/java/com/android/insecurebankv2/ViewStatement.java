@@ -16,7 +16,7 @@ import java.io.File;
 
 /*
 The page that allows the user to view transaction history for the logged in user
-@author Dinesh Shetty
+@author Dinesh Shetty.
 */
 public class ViewStatement extends Activity {
 	String uname;
